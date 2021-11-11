@@ -1,6 +1,6 @@
 {
-    "name": "companion_experiment",
-    "short_name": "companion_experiment",
+    "name": "hello",
+    "short_name": "hello",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
