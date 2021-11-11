@@ -1,9 +1,0 @@
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/companion_experiment
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/icudtl.dat
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/data/flutter_assets/version.json
-/home/aik/repos/dc-flutter/companion_experiment/build/linux/x64/release/bundle/lib/libapp.so
